@@ -19,3 +19,4 @@ GitHub Actions · Debian/SUSE · Java · Kotlin · Python · TypeScript
 | [home-infra](https://github.com/KandlerLi/home-infra) | ![Checks](https://github.com/KandlerLi/home-infra/actions/workflows/checks.yml/badge.svg) | — |
 | [terraform-state](https://github.com/KandlerLi/terraform-state) | — | ![Security scan](https://github.com/KandlerLi/terraform-state/actions/workflows/security-scan.yml/badge.svg) |
 | [repo-infra](https://github.com/KandlerLi/repo-infra) | — | ![Security scan](https://github.com/KandlerLi/repo-infra/actions/workflows/security-scan.yml/badge.svg) |
+| [k3s-bootstrap](https://github.com/KandlerLi/k3s-bootstrap) | — | ![Security scan](https://github.com/KandlerLi/k3s-bootstrap/actions/workflows/security-scan.yml/badge.svg) |
