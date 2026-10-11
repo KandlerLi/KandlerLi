@@ -16,7 +16,9 @@ GitHub Actions · Debian/SUSE · Java · Kotlin · Python · TypeScript
 | [aws-budget](https://github.com/KandlerLi/aws-budget) | ![Checks](https://github.com/KandlerLi/aws-budget/actions/workflows/checks.yml/badge.svg) | ![Security scan](https://github.com/KandlerLi/aws-budget/actions/workflows/security-scan.yml/badge.svg) |
 | [k3s-apps](https://github.com/KandlerLi/k3s-apps) | ![Checks](https://github.com/KandlerLi/k3s-apps/actions/workflows/checks.yml/badge.svg) | ![Security scan](https://github.com/KandlerLi/k3s-apps/actions/workflows/security-scan.yml/badge.svg) |
 | [secrets-manager](https://github.com/KandlerLi/secrets-manager) | ![Checks](https://github.com/KandlerLi/secrets-manager/actions/workflows/checks.yml/badge.svg) | ![Security scan](https://github.com/KandlerLi/secrets-manager/actions/workflows/security-scan.yml/badge.svg) |
-| [home-infra](https://github.com/KandlerLi/home-infra) | ![Checks](https://github.com/KandlerLi/home-infra/actions/workflows/checks.yml/badge.svg) | — |
+| [home-infra](https://github.com/KandlerLi/home-infra) | ![Checks](https://github.com/KandlerLi/home-infra/actions/workflows/checks.yml/badge.svg) | ![Security scan](https://github.com/KandlerLi/home-infra/actions/workflows/security-scan.yml/badge.svg) |
 | [terraform-state](https://github.com/KandlerLi/terraform-state) | — | ![Security scan](https://github.com/KandlerLi/terraform-state/actions/workflows/security-scan.yml/badge.svg) |
 | [repo-infra](https://github.com/KandlerLi/repo-infra) | — | ![Security scan](https://github.com/KandlerLi/repo-infra/actions/workflows/security-scan.yml/badge.svg) |
 | [k3s-bootstrap](https://github.com/KandlerLi/k3s-bootstrap) | — | ![Security scan](https://github.com/KandlerLi/k3s-bootstrap/actions/workflows/security-scan.yml/badge.svg) |
+| [gha-common](https://github.com/KandlerLi/gha-common) | — | ![Security scan](https://github.com/KandlerLi/gha-common/actions/workflows/security-scan.yml/badge.svg) |
+| [home-infra-docs](https://github.com/KandlerLi/home-infra-docs) | — | ![Security scan](https://github.com/KandlerLi/home-infra-docs/actions/workflows/security-scan.yml/badge.svg) |
